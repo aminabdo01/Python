@@ -1,2 +1,2 @@
 # Python
- MY journeywith Python
+ MY journey with Python

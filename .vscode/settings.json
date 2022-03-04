@@ -1,3 +1,18 @@
 {
     "gitdoc.enabled": true
+    
 }
+"multiCommand.commands": [
+    {
+        "command": "multiCommand.gitSync",
+        "sequence": [
+            "workbench.action.files.saveAll",
+            "git.stageAll",
+            "git.commitStaged",
+            "git.sync"
+        ]
+    }
+],
+"shortcuts.buttons": [
+    "triangle-up , multiCommand.gitSync , Git Sync"
+]

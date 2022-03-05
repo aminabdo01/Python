@@ -5,10 +5,9 @@ b = input("b: ")
 
 ####################################
 #Write your code below this line 👇
-c = (2)
-a = c
+temp = a 
 b = a
-c = a
+a = temp
 
 
 

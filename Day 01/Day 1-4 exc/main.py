@@ -6,12 +6,8 @@ b = input("b: ")
 ####################################
 #Write your code below this line 👇
 temp = a
-temp_1 = b
+a = b
 b = temp
-a = temp_1
-
-
-
 #Write your code above this line 👆
 ####################################
 

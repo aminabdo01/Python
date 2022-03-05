@@ -5,9 +5,7 @@ b = input("b: ")
 
 ####################################
 #Write your code below this line 👇
-temp = a 
-b = a
-a = temp
+
 
 
 

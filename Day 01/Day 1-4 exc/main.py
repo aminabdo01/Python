@@ -1,10 +1,12 @@
+# 🚨 Don't change the code below 👇
 a = input("a: ")
 b = input("b: ")
 # 🚨 Don't change the code above 👆
 
 ####################################
 #Write your code below this line 👇
-
+a = b
+b = a
 
 
 
